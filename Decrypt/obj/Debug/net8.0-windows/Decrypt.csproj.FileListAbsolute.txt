@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Decrypt\Decrypt\bin\Debug\net8.0-windows\Decrypt.exe
+C:\Users\HP\source\repos\Decrypt\Decrypt\bin\Debug\net8.0-windows\Decrypt.deps.json
+C:\Users\HP\source\repos\Decrypt\Decrypt\bin\Debug\net8.0-windows\Decrypt.runtimeconfig.json
+C:\Users\HP\source\repos\Decrypt\Decrypt\bin\Debug\net8.0-windows\Decrypt.dll
+C:\Users\HP\source\repos\Decrypt\Decrypt\bin\Debug\net8.0-windows\Decrypt.pdb
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.Form1.resources
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.AssemblyInfo.cs
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.dll
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\refint\Decrypt.dll
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.pdb
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.genruntimeconfig.cache
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\ref\Decrypt.dll
+C:\Users\HP\source\repos\Decrypt\Decrypt\obj\Debug\net8.0-windows\Decrypt.sourcelink.json
